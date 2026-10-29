@@ -352,6 +352,7 @@ Every push builds and tests the image with the shared workflow in [`linuxserver-
 
 ## Versions
 
+* **2026-10-29:** - Install intellij-idea-oss, Arch's new name for the community edition package.
 * **2026-05-18:** - Remove aarch64 support as it has been dropped upstream.
 * **2026-04-03:** - Make Wayland default disable with PIXELFLUX_WAYLAND=false.
 * **2026-02-18:** - Change aarch64 version to best effort.
