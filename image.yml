@@ -10,6 +10,10 @@ upstream:
   version:
     type: arch_package
     package: intellij-idea-oss
+  notes:
+    type: github_release
+    repo: JetBrains/intellij-community
+    tag: idea/${VERSION}
 
 release:
   branch: master
