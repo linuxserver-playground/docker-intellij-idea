@@ -531,7 +531,7 @@ ini                                                                           10
 ini4j                                                                         0.5.5-2                                    java-archive                      
 intel-gmmlib                                                                  22.10.2-1                                  alpm                              
 intel-media-driver                                                            26.3.5-1                                   alpm                              
-intellij-idea-oss                                                             2026.3-1                                   alpm                              
+intellij-idea-oss                                                             2026.3.0.1-1                               alpm                              
 intellij-test-discovery-agent                                                 UNKNOWN                                    java-archive    (+1 duplicate)    
 interface                                                                     UNKNOWN                                    java-archive                      
 io                                                                            1.11.0                                     java-archive                      
